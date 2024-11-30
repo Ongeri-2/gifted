@@ -11,7 +11,7 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put your session-id here. Must Start with 'Gifted~'",
+      "description": "Gifted~CqoxERBA#Ot6d-hwA5CmGsbpF40elApTY_3eV9raOMNCMEVl-O5I",
       "required": true,
       "value": ""
     },  
@@ -31,7 +31,7 @@
       "value": ""
     },
     "SUDO_NUMBERS": {
-      "description": "Put Sudo Numbers separated by comma Here ie 2547xxxx,2557xxxxx,928xxxxx. Sudos have same rights as owner(can command the bot)",
+      "description": "254713145618",
       "required": false,
       "value": ""
     },
@@ -48,7 +48,7 @@
     "AUTOLIKE_EMOJI": {
       "description": "Input your custom status like emoji(any) else leave blank to use default => 💜",
       "required": false,
-      "value": "💜"
+      "value": "💜🦋"
     },
     "AUTO_REPLY_STATUS": {
       "description": "Make it 'true' if you want the bot to send message after viewing status",
